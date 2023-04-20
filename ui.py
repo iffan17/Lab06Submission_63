@@ -1,5 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 import pygame as pg
 import sys
 
